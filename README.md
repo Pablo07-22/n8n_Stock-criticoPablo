@@ -73,6 +73,9 @@ Se agregaron nuevos nodos justo después de **Actualizar Stock**:
 
 ![Nodos nuevos del sistema](image-2.png)
 
+![alt text](TelegramStock.png)
+
+![alt text](PruebasTelegram.png)
 ---
 
 # ⚙️ Nodos Nuevos
